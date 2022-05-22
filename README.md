@@ -1,2 +1,2 @@
 # Map
-React Js practice for mapping, destructuring, and spread operator.
+React Js snippet for mapping, destructuring, and spread operator.
